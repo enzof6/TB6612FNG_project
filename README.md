@@ -2,7 +2,7 @@ TB6612FNG_project
 ======================================================================================================
 
 
-[*Fritizing Circuit Diagram*](https://digitalelectronicsprojects.wordpress.com/2018/12/14/tb6612fng-project/#jp-carousel-221)
+![*Fritizing Circuit Diagram*](https://digitalelectronicsprojects.wordpress.com/2018/12/14/tb6612fng-project/#jp-carousel-221)
 
 Controlling an linear actuator and servo motor with SparkFUN TB6612FNG breakout board and Arduino Uno
 
